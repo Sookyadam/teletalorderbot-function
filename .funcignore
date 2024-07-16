@@ -1,0 +1,13 @@
+# Exclude virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.rar
